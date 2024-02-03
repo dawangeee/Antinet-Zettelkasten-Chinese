@@ -48,4 +48,4 @@
 
 ## 协议
 
-[CC-BY 4.0](https://github.com/asureading/antinet-zettelkasten-chinese/blob/main/LICENSE)
+[CC-BY 4.0](https://github.com/dawangeee/antinet-zettelkasten-chinese/blob/main/LICENSE)
