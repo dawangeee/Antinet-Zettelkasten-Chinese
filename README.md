@@ -3,7 +3,7 @@
 
 - 作者： [Scott P. Scheper](https://www.youtube.com/@scottscheper) 
 - 原名：[《Antinet Zettelkasten》](https://www.amazon.com/Antinet-Zettelkasten-Knowledge-Prolific-Researcher-ebook/dp/B0BPN3W6RP) 
-- 译者：switch7 [@switchthink](https://github.com/switchthink)  
+- 译者：大王鹅鹅鹅 [@dawangeee](https://github.com/dawangeee)  
 
 ## 目录
 
