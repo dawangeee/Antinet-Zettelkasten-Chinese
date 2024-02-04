@@ -29,8 +29,8 @@
 [19.第十九章 人类记忆和Antinet](./zettelkasten/19.第十九章%20人类记忆和Antinet.md)  
 [20.第二十章 演化、感知、透视与反刍](./zettelkasten/20.第二十章%20演化、感知、透视与反刍.md)  
 [21.第二十一章  随机性、惊喜和意外](./zettelkasten/21.第二十一章%20%20随机性、惊喜和意外.md)  
-[22 后记](./zettelkasten/22%20后记.md)  
-[23 参考网站](./zettelkasten/23.参考网站.md)   
+[22.后记](./zettelkasten/22%20后记.md)  
+[23.参考网站](./zettelkasten/23.参考网站.md)   
    
 
 
